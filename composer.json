@@ -1,0 +1,29 @@
+{
+  "name": "dongsai/tester",
+  "description": "对于 tester 的演示",
+  "type": "project",
+  "authors": [
+
+  ],
+  "scripts": {
+  },
+  "require": {
+    "php": "^7.0",
+    "ext-pcntl": "*",
+    "symfony/var-dumper": "^3.4",
+    "phpunit/php-code-coverage": "*",
+    "phpunit/php-timer": "^1.0",
+    "beberlei/assert": "^3.3"
+  },
+  "require-dev": {
+    "nette/tester": "^2.0"
+  },
+  "autoload": {
+  },
+  "suggest": {
+  },
+
+
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
